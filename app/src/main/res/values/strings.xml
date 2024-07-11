@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hotels</string>
+    <string name="loading_hotels">Loading hotels…</string>
+    <string name="hotel_image_desc">hotel image</string>
+    <string name="hotel_name_placeholder">Some Hotel</string>
+    <string name="hotel_address_placeholder">Some Street, 42</string>
+    <string name="hotel_distance_placeholder">42 meters from city center</string>
+    <string name="hotel_distance_format">%.1f meters from the city center</string>
+    <string name="sort_by_distance">sort by distance</string>
+    <string name="sort_by_suites_availability">sort by suites availability</string>
+    <string name="some_coordinates">40.75507500000001, -73.96901999999997</string>
+    <string name="suite_single_digit">2</string>
+    <string name="suite_double_digit">34</string>
+    <string name="suite_triple_digit">273</string>
+    <string name="and_some_more">and 8 more</string>
+    <string name="available_suites">Available suites</string>
+    <string name="no_suites_available">No suites available</string>
+    <string name="hotel_coordinates_format">%f, %f</string>
+    <string name="hotel_more_suites_format">and %d more</string>
+    <string name="no_network_icon">no network icon</string>
+    <string name="could_not_load_hotels">Could not load hotels</string>
+    <string name="make_sure_you_are_connected">Please make sure you are connected to the internet and try again</string>
+    <string name="reload">reload</string>
+</resources>
